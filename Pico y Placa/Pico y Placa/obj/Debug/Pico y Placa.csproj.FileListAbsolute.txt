@@ -1,0 +1,19 @@
+C:\Users\Christian Arroyo\AppData\Local\Temporary Projects\Pico y Placa\bin\Debug\Pico y Placa.exe.config
+C:\Users\Christian Arroyo\AppData\Local\Temporary Projects\Pico y Placa\bin\Debug\Pico y Placa.exe
+C:\Users\Christian Arroyo\AppData\Local\Temporary Projects\Pico y Placa\bin\Debug\Pico y Placa.pdb
+C:\Users\Christian Arroyo\AppData\Local\Temporary Projects\Pico y Placa\obj\Debug\Pico y Placa.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\AppData\Local\Temporary Projects\Pico y Placa\obj\Debug\Pico_y_Placa.Properties.Resources.resources
+C:\Users\Christian Arroyo\AppData\Local\Temporary Projects\Pico y Placa\obj\Debug\Pico y Placa.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\AppData\Local\Temporary Projects\Pico y Placa\obj\Debug\Pico y Placa.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\AppData\Local\Temporary Projects\Pico y Placa\obj\Debug\Pico y Placa.exe
+C:\Users\Christian Arroyo\AppData\Local\Temporary Projects\Pico y Placa\obj\Debug\Pico y Placa.pdb
+C:\Users\Christian Arroyo\Desktop\Pico y Placa\Pico y Placa\bin\Debug\Pico y Placa.exe.config
+C:\Users\Christian Arroyo\Desktop\Pico y Placa\Pico y Placa\bin\Debug\Pico y Placa.exe
+C:\Users\Christian Arroyo\Desktop\Pico y Placa\Pico y Placa\bin\Debug\Pico y Placa.pdb
+C:\Users\Christian Arroyo\Desktop\Pico y Placa\Pico y Placa\obj\Debug\Pico y Placa.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Pico y Placa\Pico y Placa\obj\Debug\Pico_y_Placa.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Pico y Placa\Pico y Placa\obj\Debug\Pico y Placa.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Pico y Placa\Pico y Placa\obj\Debug\Pico y Placa.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Pico y Placa\Pico y Placa\obj\Debug\Pico y Placa.exe
+C:\Users\Christian Arroyo\Desktop\Pico y Placa\Pico y Placa\obj\Debug\Pico y Placa.pdb
+C:\Users\Christian Arroyo\Desktop\Pico y Placa\Pico y Placa\obj\Debug\Pico_y_Placa.PyP.resources
